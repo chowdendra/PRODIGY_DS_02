@@ -22,3 +22,9 @@ Handled outliers in numerical variables where appropriate.
 Analyzed relationships between variables such as Survived, Pclass, Age, Fare, and Sex.
 Created visualizations like bar charts, box plots, and heatmaps to identify trends and correlations in the data.
 Highlighted patterns, such as survival rates by passenger class and gender.
+
+**Conclusion**
+
+This task provided a comprehensive understanding of the dataset, revealing significant patterns and relationships between variables. These insights could be further leveraged for predictive modeling tasks.
+
+Thank you for reviewing my submission!
